@@ -1,4 +1,4 @@
-console.log('Client side js file is loaded')
+
 
 //it is working through index.hbs as it is our main page by including in script tag
 
